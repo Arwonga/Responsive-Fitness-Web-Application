@@ -31,7 +31,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Arwonga/fitness-web-app.git
+git clone https://github.com/Arwonga/Responsive-Fitness-Web-Application/tree/main
 
 # Navigate into the project directory
 cd fitness-web-app
